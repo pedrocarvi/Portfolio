@@ -9,7 +9,7 @@ const Texts = [
     'HTML5', 'CSS3', 'JAVASCRIPT',
     'REACT.JS', 'SASS', 'GIT/GITHUB', 
     'BOOTSTRAP', 'MATERIAL UI',
-    'FIREBASE', 'RESPONSIVE DESIGN', 'SEO', 'CONSULTAS MySQL'
+    'FIREBASE', 'RESPONSIVE DESIGN', 'SEO', 'MySQL QUERIES'
 ];
 
 var tagCloud = TagCloud('.Sphere', Texts, {
